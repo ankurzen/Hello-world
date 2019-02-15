@@ -1,2 +1,2 @@
 # Hello-world
-My First repository... hope to build many more sson
+My First repository... hope to build many more soon.
